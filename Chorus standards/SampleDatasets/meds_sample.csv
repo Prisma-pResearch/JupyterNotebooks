@@ -1,0 +1,870 @@
+patient_deiden_id,med_order_display_name,med_order_route,taken_datetime,total_dose_character,med_dose_unit_desc,med_infusion_rate,med_infusion_rate_unit_desc,rxnorm
+123101,perflutren lipid microspheres (DEFINITY) injection 1.7 mL,Intravenous,6/13/2019 14:38,1.7,ml,,,283753
+123101,perflutren lipid microspheres (DEFINITY) injection 2 mL,Intravenous,5/23/2019 15:55,2,ml,,,283753
+123101,perflutren lipid microspheres (DEFINITY) injection 10 mL,Intravenous,5/21/2019 7:35,10,ml,,,283753
+123101,iodixanol (VISIPAQUE) 320 MG/ML injection 100 mL,Intravenous,8/4/2019 19:30,100,ml,,,27729
+123101,multivitamin tablet 1 tablet,Oral,8/21/2019 8:11,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/5/2019 17:01,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/23/2019 8:11,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/8/2019 8:08,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/14/2019 10:16,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/16/2019 11:34,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/20/2019 9:07,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/6/2019 8:48,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/9/2019 8:03,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/15/2019 10:07,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/13/2019 8:25,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/18/2019 9:08,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/19/2019 9:17,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/22/2019 8:05,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/11/2019 8:20,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/12/2019 10:00,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/17/2019 8:50,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/7/2019 9:01,1,tablet,,,89905
+123101,multivitamin tablet 1 tablet,Oral,8/10/2019 8:05,1,tablet,,,89905
+123101,perflutren lipid microspheres (DEFINITY) injection 1.7 mL,Intravenous,8/5/2019 14:01,1.7,ml,,,283753
+123101,perflutren lipid microspheres (DEFINITY) injection 1.7 mL,Intravenous,8/13/2019 15:30,1.7,ml,,,283753
+123101,sodium phosphate 15 mmol in 0.9% NaCl 100 mL IVPB,Intravenous,8/8/2019 4:00,15,mmol,,,817886
+123101,perflutren lipid microspheres (DEFINITY) injection 1.7 mL,Intravenous,8/19/2019 9:00,1.7,ml,,,283753
+123101,perflutren lipid microspheres (DEFINITY) injection 1.7 mL,Intravenous,9/24/2019 11:18,1.7,ml,,,283753
+123101,sodium phosphate 15 mmol in 0.9% NaCl 100 mL IVPB,Intravenous,8/8/2019 6:51,15,mmol,,,817886
+123101,furosemide (LASIX) tablet 40 mg,Oral,10/9/2018 8:14,40,mg,,,313988
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/30/2019 20:23,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/2/2019 3:35,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/2/2019 15:14,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/2/2019 20:08,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/10/2019 15:39,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/12/2019 4:37,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/12/2019 9:59,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/13/2019 1:40,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/20/2019 17:30,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/27/2019 8:39,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/6/2019 15:36,975,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/17/2019 12:12,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/17/2019 15:54,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/20/2019 11:55,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/23/2019 0:10,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/24/2019 9:31,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 0:40,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/8/2019 8:08,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/16/2019 11:34,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/19/2019 9:17,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/21/2019 8:11,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/25/2019 8:33,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/28/2019 8:50,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/30/2019 8:44,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/2/2019 8:10,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/3/2019 8:01,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/7/2019 8:53,81,mg,,,318272
+123101,"lisinopril (PRINIVIL,ZESTRIL) tablet 2.5 mg",Oral,10/7/2018 8:14,2.5,mg,,,311353
+123101,"lisinopril (PRINIVIL,ZESTRIL) tablet 2.5 mg",Oral,10/8/2018 8:58,2.5,mg,,,311353
+123101,iohexol (OMNIPAQUE 350) injection 75 mL,Intravenous,6/13/2019 13:38,75,ml,,,317566
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/31/2019 2:59,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/31/2019 14:44,975,mg,,,313782
+123101,aspirin chewable tablet 324 mg,Oral,10/6/2018 16:14,324,mg,,,318272
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/12/2019 15:02,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/13/2019 4:06,975,mg,,,313782
+123101,"lisinopril (PRINIVIL,ZESTRIL) tablet 2.5 mg",Oral,10/9/2018 8:13,2.5,mg,,,311353
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/30/2019 8:44,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/15/2019 10:07,650,mg,,,307675
+123101,iohexol (OMNIPAQUE 350) injection 100 mL,Intravenous,10/6/2018 18:00,100,ml,,,317566
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/1/2019 3:24,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/1/2019 8:09,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/1/2019 14:37,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/3/2019 3:11,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/19/2019 1:18,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/19/2019 16:08,650,mg,,,307675
+123101,iohexol (OMNIPAQUE 350) injection 75 mL,Intravenous,10/22/2018 14:00,75,ml,,,317566
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/3/2019 15:25,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/4/2019 21:44,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/11/2019 4:24,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/11/2019 21:22,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/23/2019 0:10,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/30/2019 1:29,650,mg,,,307675
+123101,bacitracin ophthalmic ointment,Both Eyes,8/20/2019 21:26,1,application,,,308508
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/1/2019 20:02,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/4/2019 9:55,975,mg,,,313782
+123101,bacitracin ophthalmic ointment,Both Eyes,8/21/2019 20:17,1,application,,,308508
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/10/2019 4:16,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/12/2019 21:07,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/6/2019 20:26,975,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/7/2019 20:37,975,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/17/2019 16:13,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/22/2019 8:05,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/15/2019 17:26,0,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/8/2019 15:19,975,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/9/2019 4:31,975,mg,,,307675
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/2/2019 20:08,6.25,mg,,,200031
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/23/2019 8:11,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/23/2019 17:06,650,mg,,,307675
+123101,nitroGLYCERIN (NITROSTAT) SL tablet,Sublingual,6/13/2019 13:38,0.4,mg,,,198039
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/17/2019 2:08,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/25/2019 16:25,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/5/2019 16:24,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/6/2019 2:08,4,ml,,,307719
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/18/2019 21:05,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/19/2019 8:05,0,mg,,,200031
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/28/2019 8:50,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/29/2019 1:23,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/18/2019 0:29,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/18/2019 20:00,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/24/2019 8:31,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/6/2019 2:20,975,mg,,,307675
+123101,acetaminophen (TYLENOL) tablet 650 mg,Oral,8/6/2019 21:19,650,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/20/2019 8:04,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/21/2019 4:28,2,ml,,,307719
+123101,acetaminophen (TYLENOL) tablet 650 mg,Oral,8/12/2019 14:00,650,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 650 mg,Oral,8/16/2019 11:32,650,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/22/2019 8:33,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 5:20,2,ml,,,307719
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/24/2019 8:47,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/25/2019 20:17,6.25,mg,,,200031
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/29/2019 9:10,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/5/2019 9:23,975,mg,,,307675
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/31/2019 8:11,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/3/2019 8:01,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/3/2019 20:30,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/4/2019 3:55,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/9/2019 16:00,975,mg,,,307675
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/9/2019 21:59,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/10/2019 21:04,975,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 9:05,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/13/2019 16:47,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/18/2019 2:04,0,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/7/2019 8:54,975,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/8/2019 4:25,975,mg,,,307675
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/30/2019 14:48,975,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/7/2019 2:00,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/16/2019 23:59,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/18/2019 15:52,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/19/2019 0:15,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/23/2019 8:11,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/18/2019 17:01,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/20/2019 3:07,0,mg,,,307675
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/2/2019 8:11,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/11/2019 10:02,975,mg,,,313782
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/9/2019 3:21,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/14/2019 10:17,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/6/2019 8:29,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/6/2019 20:41,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/19/2019 8:59,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/22/2019 0:15,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/24/2019 8:31,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/5/2019 9:23,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,9/5/2019 20:17,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/14/2019 18:45,650,mg,,,307675
+123101,aspirin chewable tablet 81 mg,Oral,9/6/2019 9:46,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/8/2019 11:34,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/21/2019 2:49,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/26/2019 2:02,0,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/16/2019 1:10,0,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/16/2019 11:41,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/17/2019 8:51,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/19/2019 9:17,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/18/2019 4:02,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/16/2019 17:20,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/21/2019 8:11,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/26/2019 9:43,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/27/2019 0:34,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/23/2019 11:46,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/23/2019 16:44,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/18/2019 8:19,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/19/2019 12:00,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/29/2019 18:17,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/6/2019 9:46,975,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/21/2019 16:14,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/22/2019 1:30,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/19/2019 15:50,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/19/2019 19:53,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/23/2019 19:53,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/24/2019 16:33,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/28/2019 1:31,0,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/5/2019 19:36,4,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/24/2019 17:23,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/25/2019 0:32,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 325 mg,Oral,9/18/2019 4:23,325,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/6/2019 13:15,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 15:45,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 20:19,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/21/2019 0:23,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/22/2019 19:40,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/26/2019 4:14,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/25/2019 8:33,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/26/2019 16:40,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/7/2019 21:22,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/16/2019 16:30,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 23:47,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/7/2019 8:33,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/8/2019 4:07,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/18/2019 12:23,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/21/2019 12:16,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/7/2019 9:00,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/9/2019 8:02,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/13/2019 8:27,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/28/2019 16:52,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/5/2019 16:17,0,mg,,,307675
+123101,aspirin chewable tablet 81 mg,Oral,8/26/2019 9:44,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/1/2019 8:10,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/8/2019 11:33,975,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/8/2019 21:40,975,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/17/2019 4:27,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/20/2019 0:01,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/11/2019 8:21,81,mg,,,318272
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/24/2019 4:12,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,9/11/2019 8:20,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/19/2019 8:04,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/9/2019 9:38,975,mg,,,307675
+123101,aspirin chewable tablet 81 mg,Oral,9/24/2019 8:47,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/25/2019 8:28,81,mg,,,318272
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/21/2019 7:59,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/23/2019 4:19,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/14/2019 10:17,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/22/2019 8:06,81,mg,,,318272
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/16/2019 20:00,2,ml,,,307719
+123101,acetaminophen (TYLENOL) tablet 650 mg,Oral,8/12/2019 10:00,650,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/24/2019 20:21,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/25/2019 12:43,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/31/2019 8:11,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/18/2019 8:34,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/23/2019 9:12,81,mg,,,318272
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,8/31/2019 20:06,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/4/2019 16:50,975,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/17/2019 20:08,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/19/2019 4:14,2,ml,,,307719
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/5/2019 3:14,975,mg,,,313782
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/10/2019 9:45,975,mg,,,313782
+123101,aspirin chewable tablet 81 mg,Oral,8/10/2019 8:05,81,mg,,,318272
+123101,acetaminophen (TYLENOL) tablet 975 mg,Oral,9/11/2019 15:11,975,mg,,,313782
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/20/2019 19:39,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/22/2019 4:19,2,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/15/2019 11:13,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/18/2019 9:08,81,mg,,,318272
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/22/2019 11:52,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/22/2019 15:37,2,ml,,,307719
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/15/2019 0:14,0,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/18/2019 9:08,650,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/23/2019 8:02,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/24/2019 0:08,0,ml,,,307719
+123101,aspirin chewable tablet 81 mg,Oral,8/12/2019 10:00,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/17/2019 8:50,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/20/2019 9:07,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/14/2019 8:08,81,mg,,,318272
+123101,bacitracin ophthalmic ointment,Both Eyes,8/12/2019 20:13,1,application,,,308508
+123101,aspirin chewable tablet 81 mg,Oral,9/4/2019 9:55,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/9/2019 9:39,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/20/2019 9:07,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/22/2019 16:23,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/24/2019 0:05,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 650 mg,Oral,8/27/2019 17:29,650,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/5/2019 20:18,0,mg,,,307675
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/7/2019 3:35,975,mg,,,307675
+123101,bacitracin ophthalmic ointment,Both Eyes,8/15/2019 22:25,0,application,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/16/2019 11:34,1,application,,,308508
+123101,aspirin chewable tablet 81 mg,Oral,9/16/2019 8:33,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/17/2019 8:44,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/26/2019 8:33,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/27/2019 10:43,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/5/2019 10:46,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/29/2019 8:25,81,mg,,,318272
+123101,bacitracin ophthalmic ointment,Both Eyes,8/17/2019 12:45,0,application,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/10/2019 9:00,0,application,,,308508
+123101,aspirin chewable tablet 81 mg,Oral,9/15/2019 8:53,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/20/2019 9:34,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/21/2019 9:02,81,mg,,,318272
+123101,acetaminophen (TYLENOL) oral liquid 975 mg,Oral,9/7/2019 15:45,975,mg,,,307675
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/7/2019 14:22,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/8/2019 8:16,4,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/17/2019 7:47,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/20/2019 4:11,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/20/2019 16:08,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/21/2019 16:20,2,ml,,,307719
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/21/2019 19:37,2,ml,,,307719
+123101,bacitracin ophthalmic ointment,Both Eyes,8/13/2019 21:30,1,application,,,308508
+123101,acetylcysteine (MUCOMYST) nebulizer solution 20%,Nebulization,9/24/2019 13:45,2,ml,,,307719
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/7/2019 20:38,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/9/2019 9:39,12.5,mg,,,200033
+123101,bacitracin ophthalmic ointment,Both Eyes,8/26/2019 11:54,0,application,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/31/2019 8:12,1,application,,,308508
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/5/2019 9:23,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/5/2019 21:33,6.25,mg,,,200031
+123101,bacitracin ophthalmic ointment,Both Eyes,8/19/2019 9:18,1,application,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/25/2019 8:33,1,application,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/3/2019 8:02,0,application,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/15/2019 10:07,1,application,,,308508
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/10/2019 9:48,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/10/2019 20:32,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/6/2019 20:26,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/15/2019 8:53,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/21/2019 12:53,6.25,mg,,,200031
+123101,aspirin chewable tablet 81 mg,Oral,8/6/2019 8:48,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,8/27/2019 8:40,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/10/2019 9:44,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/12/2019 8:05,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/13/2019 11:13,81,mg,,,318272
+123101,aspirin chewable tablet 81 mg,Oral,9/22/2019 10:26,81,mg,,,318272
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/14/2019 8:08,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/8/2019 11:35,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/18/2019 8:33,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/26/2019 8:32,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/26/2019 20:16,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/27/2019 10:43,0,mg,,,200031
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/8/2019 21:41,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/2/2019 8:11,6.25,mg,,,200031
+123101,aspirin chewable tablet 81 mg,Oral,8/16/2019 1:22,81,mg,,,318272
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/21/2019 20:48,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/24/2019 20:41,0,mg,,,200031
+123101,bisacodyl (DULCOLAX) EC tablet 10 mg,Oral,8/12/2019 10:00,10,mg,,,308753
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/11/2019 21:19,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/22/2019 10:26,6.25,mg,,,200031
+123101,bisacodyl (DULCOLAX) EC tablet 10 mg,Oral,9/13/2019 11:13,10,mg,,,308753
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/6/2019 9:46,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/7/2019 8:53,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 12.5 mg,Oral,9/9/2019 21:58,12.5,mg,,,200033
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/4/2019 9:55,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/16/2019 21:03,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/3/2019 8:01,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/3/2019 20:30,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/11/2019 8:20,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/12/2019 8:05,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/13/2019 11:13,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/17/2019 8:44,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/19/2019 20:25,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/23/2019 9:12,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/12/2019 20:54,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/17/2019 20:23,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/25/2019 8:27,0,mg,,,200031
+123101,collagenase (SANTYL) ointment,Topical,8/6/2019 8:48,0,,,,309509
+123101,collagenase (SANTYL) ointment,Topical,8/7/2019 10:52,0,,,,309509
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/4/2019 21:43,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/13/2019 20:14,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/14/2019 20:23,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/15/2019 20:07,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/16/2019 8:33,6.25,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/22/2019 20:32,0,mg,,,200031
+123101,carvedilol (COREG) tablet 6.25 mg,Oral,9/23/2019 20:15,6.25,mg,,,200031
+123101,digoxin (LANOXIN) injection 250 mcg,Intravenous,8/8/2019 18:29,0.25,mg,,,104208
+123101,diazePAM (VALIUM) tablet 10 mg,Oral,8/5/2019 12:51,10,mg,,,197589
+123101,digoxin (LANOXIN) injection 125 mcg,Intravenous,8/9/2019 0:07,0.125,mg,,,104208
+123101,digoxin (LANOXIN) injection 125 mcg,Intravenous,8/9/2019 6:03,0.125,mg,,,104208
+123101,digoxin (LANOXIN) solution 125 mcg,Per NG tube,8/10/2019 8:04,0.125,mg,,,393245
+123101,diazePAM (VALIUM) tablet 10 mg,Oral,8/5/2019 5:05,0,mg,,,197589
+123101,diazePAM (VALIUM) tablet 10 mg,Oral,8/5/2019 9:40,10,mg,,,197589
+123101,ePHEDrine injection,,9/3/2019 12:29,5,mg,,,1116294
+123101,diazePAM (VALIUM) tablet 10 mg,Oral,8/5/2019 21:06,10,mg,,,197589
+123101,EPINEPHrine 10 mg in 0.9% NaCl 1000 mL topical soak,,9/3/2019 12:00,4000,ml,,,310132
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/9/2019 8:04,20,mg,100,mL/hr,199739
+123101,diazePAM (VALIUM) tablet 10 mg,Oral,8/5/2019 5:25,10,mg,,,197589
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/11/2019 8:26,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/11/2019 20:01,20,mg,100,mL/hr,199739
+123101,diazePAM (VALIUM) tablet 10 mg,Oral,8/6/2019 3:50,10,mg,,,197589
+123101,digoxin (LANOXIN) injection 250 mcg,Intravenous,8/8/2019 6:34,0,mg,,,104208
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/5/2019 21:07,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/6/2019 20:53,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/7/2019 20:20,20,mg,100,mL/hr,199739
+123101,EPINEPHrine (ADRENALIN) 0.1 MG/ML injection,,8/16/2019 0:25,0.2,mg,,,1991328
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/17/2019 3:51,4.064,mg,27.3,mL/hr,727373
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/5/2019 10:00,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/10/2019 21:06,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/7/2019 9:01,20,mg,100,mL/hr,199739
+123101,fluconazole (DIFLUCAN) suspension 400 mg,Oral,9/20/2019 19:07,400,mg,,,310352
+123101,fluconazole (DIFLUCAN) suspension 400 mg,Oral,9/24/2019 8:47,400,mg,,,310352
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/4/2019 23:54,0,mg,0,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/12/2019 11:04,0,mg,0,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/6/2019 8:47,20,mg,100,mL/hr,199739
+123101,EPINEPHrine 10 mg in 0.9% NaCl 1000 mL topical soak,,8/15/2019 20:40,3000,ml,,,310132
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/8/2019 8:08,20,mg,100,mL/hr,199739
+123101,fluconazole (DIFLUCAN) suspension 400 mg,Oral,9/23/2019 9:12,400,mg,,,310352
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/8/2019 20:10,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/9/2019 21:07,20,mg,100,mL/hr,199739
+123101,famotidine (PEPCID) 20mg in 0.9% NaCl 50 mL IVPB,Intravenous,8/10/2019 8:06,20,mg,100,mL/hr,199739
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/6/2019 17:58,40,mg,,,313988
+123101,fluconazole (DIFLUCAN) suspension 400 mg,Oral,9/21/2019 9:02,400,mg,,,310352
+123101,furosemide (LASIX) oral solution 40 mg,Oral,9/26/2019 11:02,40,mg,,,197730
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/4/2019 21:50,0,mg,,,313988
+123101,furosemide (LASIX) oral solution 40 mg,Oral,9/27/2019 10:43,40,mg,,,197730
+123101,furosemide (LASIX) oral solution 40 mg,Oral,9/26/2019 16:33,40,mg,,,197730
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/4/2019 9:55,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/2/2019 8:11,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/7/2019 13:45,40,mg,,,313988
+123101,fluconazole (DIFLUCAN) suspension 400 mg,Oral,9/22/2019 10:26,400,mg,,,310352
+123101,furosemide (LASIX) oral solution 40 mg,Oral,9/16/2019 11:37,40,mg,,,197730
+123101,furosemide (LASIX) oral solution 40 mg,Oral,9/17/2019 8:44,40,mg,,,197730
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/1/2019 8:09,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/5/2019 9:24,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,8/31/2019 8:11,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/3/2019 8:01,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/5/2019 18:10,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/7/2019 8:53,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/3/2019 17:34,40,mg,,,313988
+123101,furosemide (LASIX) tablet 40 mg,Oral,9/6/2019 9:26,0,mg,,,313988
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,8/29/2019 20:42,30,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,8/30/2019 20:40,40,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/5/2019 11:17,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/11/2019 8:32,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/5/2019 20:35,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/12/2019 8:06,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/14/2019 20:31,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/14/2019 8:23,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/18/2019 21:11,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/16/2019 8:35,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/19/2019 21:15,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/22/2019 10:28,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/23/2019 9:21,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/24/2019 9:13,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/8/2019 21:42,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/9/2019 9:45,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/15/2019 20:25,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/22/2019 20:34,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/10/2019 20:45,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/13/2019 13:33,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/24/2019 20:53,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/27/2019 11:00,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/13/2019 20:25,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/15/2019 9:22,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/6/2019 10:14,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/6/2019 20:47,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/16/2019 21:21,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/17/2019 9:20,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/7/2019 20:40,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/8/2019 12:22,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/26/2019 8:37,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/10/2019 13:08,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/12/2019 21:19,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/17/2019 20:35,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/9/2019 22:00,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/11/2019 21:16,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,8/27/2019 17:29,30,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/25/2019 8:31,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/25/2019 21:09,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,8/30/2019 11:26,10,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,8/31/2019 20:15,40,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/7/2019 8:54,25,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/26/2019 20:18,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/20/2019 9:35,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/21/2019 20:52,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/23/2019 20:16,16,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/18/2019 9:47,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/19/2019 8:32,20,units,,,847230
+123101,insulin glargine (LANTUS SoloStar) injection,Subcutaneous,9/21/2019 9:04,16,units,,,847230
+123101,LR bolus 500 mL,Intravenous,9/18/2019 8:33,0,ml,0,mL/hr,847630
+123101,LR bolus 500 mL,Intravenous,9/18/2019 8:32,0,ml,0,mL/hr,847630
+123101,LR bolus 500 mL,Intravenous,9/18/2019 5:31,500,ml,,,847630
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/25/2019 15:01,500,mg,,,311681
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/25/2019 21:09,500,mg,,,311681
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/24/2019 21:02,500,mg,,,311681
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/26/2019 14:47,500,mg,,,311681
+123101,LR bolus 500 mL,Intravenous,9/17/2019 23:30,500,ml,,,847630
+123101,LR bolus 500 mL,Intravenous,9/18/2019 8:32,0,ml,0,mL/hr,847630
+123101,LR bolus 500 mL,Intravenous,9/18/2019 2:15,500,ml,,,847630
+123101,LR bolus 500 mL,Intravenous,9/18/2019 3:20,500,ml,,,847630
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/25/2019 5:42,500,mg,,,311681
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/26/2019 5:51,500,mg,,,311681
+123101,metOLazone (ZAROXOLYN) oral liquid 5 mg,Oral,8/27/2019 13:06,5,mg,,,311671
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/27/2019 6:03,500,mg,,,311681
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/27/2019 15:44,500,mg,,,311681
+123101,LR bolus 500 mL,Intravenous,9/18/2019 0:00,0,ml,0,mL/hr,847630
+123101,metroNIDAZOLE (FLAGYL) tablet 500 mg,Oral,9/26/2019 22:44,500,mg,,,311681
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/27/2019 12:45,500000,units,,,312055
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/8/2019 20:10,2,tablet,,,312935
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/9/2019 4:41,10,meq,,,312507
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/15/2019 10:07,2,tablet,,,312935
+123101,senna (SENOKOT) syrup 10 mL,Oral,9/17/2019 20:24,10,ml,,,702311
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/25/2019 8:51,500000,units,,,312055
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/9/2019 1:35,20,meq,,,1860466
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/26/2019 20:16,500000,units,,,312055
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/11/2019 8:26,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/26/2019 1:23,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/26/2019 13:30,0,meq,0,mL/hr,1860466
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/8/2019 8:08,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/11/2019 20:01,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/13/2019 8:25,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/14/2019 10:16,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/15/2019 22:28,0,tablet,,,312935
+123101,senna (SENOKOT) syrup 10 mL,Oral,9/16/2019 11:37,10,ml,,,702311
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/8/2019 6:20,10,meq,,,312507
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/30/2019 8:45,20,meq,,,1860466
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/25/2019 12:11,500000,units,,,312055
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/26/2019 8:33,500000,units,,,312055
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/7/2019 20:20,2,tablet,,,312935
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/27/2019 10:43,500000,units,,,312055
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/10/2019 20:33,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/16/2019 10:58,0,tablet,,,312935
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/8/2019 20:11,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/4/2019 21:00,1,application,,,106351
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/26/2019 16:33,500000,units,,,312055
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/25/2019 17:09,500000,units,,,312055
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/12/2019 10:00,0,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,9/1/2019 11:41,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/5/2019 10:00,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/6/2019 22:00,1,application,,,106351
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/25/2019 22:23,500000,units,,,312055
+123101,"nystatin (MYCOSTATIN) suspension 500,000 Units",Oral,9/26/2019 14:47,500000,units,,,312055
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/27/2019 21:00,4,ml,,,706943
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/8/2019 1:19,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/9/2019 21:08,1,application,,,106351
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/3/2019 11:25,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/4/2019 12:28,4,ml,,,706943
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/15/2019 8:22,0,application,,,106351
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/5/2019 8:42,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/8/2019 4:07,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 7:41,4,ml,,,706943
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/8/2019 4:25,10,meq,,,312507
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/8/2019 7:55,10,meq,,,312507
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 19:49,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/13/2019 16:41,4,ml,,,706943
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/30/2019 10:16,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,9/6/2019 2:19,20,meq,,,1860466
+123101,propofol (DIPRIVAN) injection 130 mg,Intravenous,8/22/2019 13:58,130,mg,,,1808217
+123101,propofol (DIPRIVAN) injection 60 mg,Intravenous,8/27/2019 12:58,60,mg,,,1808217
+123101,sterile water irrigation 500 mL,Irrigation,8/22/2019 22:09,500,ml,,,150985
+123101,risperiDONE (RisperDAL) tablet 2 mg,Oral,8/26/2019 9:05,2,mg,,,312831
+123101,sterile water irrigation 500 mL,Irrigation,8/25/2019 22:22,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/27/2019 23:05,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/28/2019 15:53,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/29/2019 7:06,500,ml,,,150985
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/6/2019 8:47,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/14/2019 21:00,0,tablet,,,312935
+123101,sterile water irrigation 500 mL,Irrigation,8/31/2019 5:58,0,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/2/2019 6:45,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/4/2019 3:12,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/6/2019 2:20,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/9/2019 17:55,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/10/2019 9:46,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/11/2019 10:02,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/17/2019 12:41,1,l,,,150985
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/9/2019 8:02,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/10/2019 21:00,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/16/2019 10:59,0,application,,,106351
+123101,sterile water irrigation 1 L,Irrigation,9/19/2019 2:59,1,l,,,150985
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/6/2019 18:15,10,meq,,,312507
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/8/2019 9:38,10,meq,,,312507
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/6/2019 20:37,10,meq,,,312507
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/25/2019 2:25,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/26/2019 6:11,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/8/2019 1:31,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/10/2019 9:25,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,9/19/2019 17:05,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/10/2019 16:48,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/22/2019 21:18,20,meq,,,1860466
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,8/26/2019 12:50,20,meq,,,1860466
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/5/2019 21:06,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/12/2019 20:12,2,tablet,,,312935
+123101,potassium chloride 10 mEq in 100 mL IVPB,Intravenous,9/9/2019 5:57,10,meq,,,312507
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/6/2019 20:53,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/5/2019 10:46,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/7/2019 9:01,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/12/2019 10:00,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/9/2019 21:07,2,tablet,,,312935
+123101,senna (SENOKOT) syrup 10 mL,Oral,9/18/2019 8:35,0,ml,,,702311
+123101,senna (SENOKOT) syrup 10 mL,Oral,9/16/2019 21:05,10,ml,,,702311
+123101,potassium chloride 20 mEq in 50 mL IVPB **CENTRAL LINE CONCENTRATION**,Intravenous,9/7/2019 5:48,20,meq,,,1860466
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/6/2019 8:49,1,application,,,106351
+123101,senna (SENOKOT) syrup 10 mL,Oral,9/18/2019 20:52,10,ml,,,702311
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/7/2019 9:00,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/7/2019 20:41,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/10/2019 8:06,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/11/2019 8:25,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/11/2019 20:09,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/8/2019 8:08,1,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/12/2019 20:01,0,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,9/3/2019 8:02,0,application,,,106351
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/28/2019 20:49,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/30/2019 8:09,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/31/2019 3:21,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,via IPV,8/30/2019 20:52,4,ml,,,706943
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/9/2019 8:03,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/10/2019 8:05,2,tablet,,,312935
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/11/2019 8:21,2,tablet,,,312935
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/31/2019 13:11,4,ml,,,706943
+123101,senna (SENOKOT) tablet 2 tablet,Oral,8/13/2019 21:29,2,tablet,,,312935
+123101,senna (SENOKOT) syrup 10 mL,Oral,9/17/2019 8:44,10,ml,,,702311
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/13/2019 8:27,0,application,,,106351
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/14/2019 10:16,1,application,,,106351
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/31/2019 16:42,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/1/2019 3:57,4,ml,,,706943
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,8/13/2019 21:29,1,application,,,106351
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/1/2019 16:40,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/2/2019 8:25,4,ml,,,706943
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,Topical,9/2/2019 8:12,1,application,,,106351
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/3/2019 4:15,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/7/2019 8:34,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/8/2019 12:48,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/9/2019 0:59,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/1/2019 0:02,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/2/2019 16:14,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/7/2019 4:12,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 8:13,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/9/2019 8:02,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/9/2019 11:55,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/9/2019 16:09,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/11/2019 12:04,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/14/2019 4:12,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/11/2019 20:02,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 4:23,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/17/2019 21:46,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/18/2019 22:12,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/14/2019 0:04,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/15/2019 4:46,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/20/2019 14:54,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/31/2019 22:06,0,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/18/2019 9:09,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/20/2019 6:07,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/4/2019 14:56,0,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/4/2019 21:51,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/20/2019 22:15,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/23/2019 22:29,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/5/2019 3:24,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/5/2019 9:54,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/24/2019 15:00,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/27/2019 5:51,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/26/2019 16:39,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/29/2019 2:05,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/31/2019 8:49,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/8/2019 3:07,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/20/2019 2:55,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/28/2019 5:35,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/31/2019 13:41,0,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/1/2019 13:31,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/3/2019 16:03,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,9/1/2019 5:42,0,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/1/2019 14:38,0,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/5/2019 0:26,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/5/2019 23:40,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,9/2/2019 23:57,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/6/2019 8:29,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/6/2019 13:15,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/6/2019 16:33,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/8/2019 1:00,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,9/5/2019 20:19,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/6/2019 14:19,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 11:36,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 23:45,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/11/2019 15:43,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/13/2019 12:04,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/8/2019 18:21,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/10/2019 3:50,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/11/2019 17:48,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/12/2019 9:59,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,via IPV,9/5/2019 12:04,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,via IPV,9/7/2019 12:34,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/13/2019 3:50,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/14/2019 18:18,1,l,,,150985
+123101,spironolactone (ALDACTONE) tablet 12.5 mg,Oral,9/8/2019 21:40,12.5,mg,,,313096
+123101,sterile water irrigation 500 mL,Irrigation,8/16/2019 21:58,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/15/2019 11:30,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/17/2019 18:36,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/27/2019 13:32,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/17/2019 14:15,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/18/2019 14:10,50,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/28/2019 14:24,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/30/2019 2:39,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/21/2019 15:45,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/29/2019 0:07,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/30/2019 14:25,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/30/2019 14:49,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/1/2019 22:58,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/3/2019 15:13,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/4/2019 17:46,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/26/2019 10:30,0,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/5/2019 16:24,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/7/2019 18:06,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/14/2019 3:41,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/7/2019 21:23,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/9/2019 5:34,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/27/2019 3:09,0,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,via IPV,8/29/2019 20:10,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/18/2019 9:51,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 1:03,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/14/2019 12:43,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/2/2019 0:01,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/14/2019 16:12,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/15/2019 12:03,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/3/2019 19:44,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/4/2019 3:48,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/27/2019 8:30,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/16/2019 8:01,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/19/2019 6:02,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/4/2019 21:08,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/5/2019 19:36,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/28/2019 8:18,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/7/2019 0:12,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/8/2019 15:54,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/28/2019 3:16,0,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/19/2019 22:06,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/21/2019 22:04,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/1/2019 20:23,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,8/29/2019 8:35,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/23/2019 14:05,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/24/2019 6:02,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/8/2019 20:41,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/9/2019 20:39,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/3/2019 7:49,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/4/2019 0:23,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/25/2019 14:48,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/26/2019 21:58,0,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 5:09,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 16:39,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/6/2019 20:41,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/7/2019 15:55,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/1/2019 8:01,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/2/2019 12:04,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/10/2019 20:05,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/11/2019 3:45,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/30/2019 21:31,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/4/2019 10:04,0,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/8/2019 8:16,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 16:11,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/11/2019 8:24,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 0:13,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/2/2019 20:52,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/4/2019 8:57,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/13/2019 4:01,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/13/2019 8:48,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/4/2019 18:06,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/6/2019 3:34,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,9/5/2019 13:49,0,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/6/2019 19:40,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/14/2019 19:54,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/15/2019 20:36,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/15/2019 0:13,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/16/2019 4:32,0,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 12:12,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/12/2019 23:56,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/7/2019 3:35,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/11/2019 2:17,1,l,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/16/2019 1:16,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/16/2019 11:48,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/13/2019 19:51,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/14/2019 7:37,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,via IPV,8/31/2019 20:26,4,ml,,,706943
+123101,sterile water irrigation 500 mL,Irrigation,8/25/2019 6:31,500,ml,,,150985
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/15/2019 9:24,4,ml,,,706943
+123101,sodium chloride 7 % nebulizer solution 4 mL,Nebulization,9/15/2019 16:09,4,ml,,,706943
+123101,sterile water irrigation 1 L,Irrigation,9/12/2019 2:44,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/13/2019 18:55,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/16/2019 15:23,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/19/2019 13:37,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/26/2019 5:49,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/29/2019 23:34,500,ml,,,150985
+123101,spironolactone (ALDACTONE) tablet 12.5 mg,Oral,9/8/2019 11:34,12.5,mg,,,313096
+123101,sterile water irrigation 500 mL,Irrigation,8/17/2019 6:53,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/16/2019 2:22,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/18/2019 18:15,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/22/2019 14:31,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/30/2019 5:33,0,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/21/2019 6:15,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/22/2019 6:28,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/24/2019 22:13,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/26/2019 16:39,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/4/2019 11:45,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/8/2019 11:36,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/23/2019 6:07,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/27/2019 14:11,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/2/2019 13:35,0,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/9/2019 4:32,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/16/2019 17:52,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,8/29/2019 14:17,500,ml,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/3/2019 7:07,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/17/2019 2:04,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/5/2019 18:18,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/7/2019 11:14,1,l,,,150985
+123101,sterile water irrigation 500 mL,Irrigation,9/3/2019 20:37,500,ml,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/10/2019 19:09,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/9/2019 10:30,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/13/2019 12:28,0,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/12/2019 17:52,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/14/2019 11:40,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/15/2019 17:51,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/16/2019 10:17,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/15/2019 2:43,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/20/2019 10:07,0,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/18/2019 2:36,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/19/2019 10:14,1,l,,,150985
+123101,sterile water irrigation 1 L,Irrigation,9/19/2019 17:59,1,l,,,150985
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/15/2019 23:30,0.0006,mg/kg/hr,3.9,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/15/2019 23:35,0.0012,mg/kg/hr,7.8,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/15/2019 23:36,0.0024,mg/kg/hr,15.6,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/15/2019 23:44,0.0036,mg/kg/hr,23.4,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/15/2019 23:46,0.006,mg/kg/hr,39,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/15/2019 23:51,0.0084,mg/kg/hr,54.6,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/16/2019 0:02,0.0102,mg/kg/hr,66.3,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/17/2019 3:55,0.0048,mg/kg/hr,31.2,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,8/17/2019 4:48,0,mg/kg/hr,0,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,9/3/2019 17:09,0.003,mg/kg/hr,20.63,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,9/3/2019 17:50,0.0024,mg/kg/hr,16.5,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,9/3/2019 19:18,0.0018,mg/kg/hr,12.38,mL/hr,727373
+123101,EPINEPHrine (ADRENALIN) PREMIX 4 mg in 0.9% NaCl 250 ml (ONE TIME BAG),Intravenous,9/3/2019 20:29,0,mg/kg/hr,0,mL/hr,727373
+123101,bacitracin ophthalmic ointment,Both Eyes,8/5/2019 21:07,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/11/2019 8:25,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/11/2019 20:09,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/20/2019 9:08,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/22/2019 21:13,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/23/2019 20:19,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/24/2019 20:24,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/30/2019 20:24,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/2/2019 20:09,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/3/2019 20:38,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/5/2019 20:19,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/7/2019 9:00,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/7/2019 20:41,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/14/2019 20:04,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/16/2019 21:49,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/28/2019 8:52,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/1/2019 20:03,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/10/2019 20:34,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/9/2019 21:07,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/17/2019 21:47,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/9/2019 8:04,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/10/2019 8:06,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/21/2019 9:11,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/24/2019 8:32,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/29/2019 8:26,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/8/2019 21:46,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/9/2019 22:00,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/10/2019 20:32,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/18/2019 22:12,,,,,308508
+123101,collagenase (SANTYL) ointment,Topical,8/8/2019 8:08,,,,,309509
+123101,bacitracin ophthalmic ointment,Both Eyes,8/19/2019 22:05,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/26/2019 21:14,,,,,308508
+123101,collagenase (SANTYL) ointment,Topical,8/9/2019 8:02,,,,,309509
+123101,collagenase (SANTYL) ointment,Topical,8/12/2019 10:00,,,,,309509
+123101,bacitracin ophthalmic ointment,Both Eyes,8/27/2019 8:40,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/2/2019 8:10,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/5/2019 10:00,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/8/2019 20:11,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/6/2019 9:47,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/7/2019 8:56,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/23/2019 8:12,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/25/2019 20:11,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/4/2019 22:07,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/28/2019 21:47,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/29/2019 20:41,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/11/2019 20:21,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/12/2019 8:30,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/13/2019 8:28,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/30/2019 10:34,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/4/2019 10:03,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/6/2019 21:40,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/14/2019 10:16,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/18/2019 9:45,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/27/2019 20:52,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/4/2019 21:45,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/5/2019 9:40,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/1/2019 8:11,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/7/2019 20:39,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/31/2019 20:24,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/8/2019 11:36,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/9/2019 9:41,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/12/2019 8:06,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/6/2019 20:40,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/6/2019 8:47,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/8/2019 8:24,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,8/22/2019 8:06,,,,,308508
+123101,bacitracin ophthalmic ointment,Both Eyes,9/11/2019 8:30,,,,,308508
+123101,collagenase (SANTYL) ointment,Topical,8/11/2019 8:25,,,,,309509
+123101,collagenase (SANTYL) ointment,Topical,8/5/2019 10:00,,,,,309509
+123101,collagenase (SANTYL) ointment,Topical,8/10/2019 8:06,,,,,309509
+123101,collagenase (SANTYL) ointment,Topical,8/13/2019 8:25,,,,,309509
+123101,lidocaine (XYLOCAINE) 2 % jelly,,9/18/2019 12:16,,,,,142440
+123101,lidocaine (XYLOCAINE) 2 % jelly,,8/27/2019 12:43,,,,,142440
+123101,silver sulfADIAZINE (SILVADENE) 1 % cream,,8/6/2019 0:11,,,,,106351
